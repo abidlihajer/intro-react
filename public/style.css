@@ -1,0 +1,40 @@
+
+ #nav{
+    background-color:grey;
+    
+ }
+ #logo{
+    color:white; 
+ }
+ #home{
+    color:white;
+ }
+ #novelties{
+    color:white; 
+ }
+ #navbarScrollingDropdown{
+    color:white;  
+ }
+ #search{
+    background-color:rgb(175, 170, 170);
+    border-color: black;
+    color:white;
+ }
+ .container{
+    height: 650px;
+    width: 20px;
+    position:relative;
+    display: block;
+    margin-top: 25px;
+  
+ }
+ 
+
+.container-2{
+   
+    position:relative;
+    display:inline-flex;
+    margin-top: 25px;
+    margin-left: 300px;
+
+}
